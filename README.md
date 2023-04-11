@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at CPX
+- 🔭 I’m currently working at 1inch network
 - 🌱 I’m currently learning Pulumi
-- 👯 I’m looking to collaborate on Terraform, Ansible, Pulumi
+- 👯 I’m looking to collaborate on Terraform, Ansible, Pulumi, GitOps
 - 🤔 I’m looking for help with Kubernetes, OpenShift, clouds(AWS, Google cloud, Azure, Openstack), security
 - 💬 Ask me about DevSecOps/DevOps
 - 📫 How to reach me: https://www.linkedin.com/in/gumerov-bulat/
